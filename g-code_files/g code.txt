@@ -1,1 +1,1 @@
-This file extracted from custom post processor(post builder)
+This file is extracted from custom post processor(post builder) built by us.
